@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassen-elkamel&show_icons=true&locale=en&layout=compact" alt="ghassen-elkamel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassen-elkamel&show_icons=true&locale=en" alt="ghassen-elkamel" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassen-elkamel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghassen-elkamel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassen-elkamel&" alt="ghassen-elkamel" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassen-elkamel" alt="ghassen-elkamel" /></a> </p><br>
