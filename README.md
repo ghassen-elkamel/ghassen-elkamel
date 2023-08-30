@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **a private app**
 
-- 🌱 I’m currently learning **django,flutter,python**
+- 🌱 I’m currently learning **flutter,python,NestJs**
 
 - 👯 I’m looking to collaborate on **a startup idea**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **UX/UI**
 
 - 📫 How to reach me **ghassen.elkamel.07@gmail.com**
 
-- ⚡ Fun fact **I THINK THAT VERY SOON I WILL ACHEIVE MY GOALS**
+- ⚡ Fun fact **I'M SO FUNNY FOR A DEVELOPER**
 
 ## Connect with me
 <p align="left">
